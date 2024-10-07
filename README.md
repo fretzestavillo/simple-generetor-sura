@@ -1,6 +1,6 @@
 # Simple Sura Generator
 
-This project combines create simple web application using vanilla javascript and Google App Script for back end also for handling API and also Google Sheet for data persistent. You can visit here: https://fretzestavillo.github.io/simple-generetor-sura/
+This project combines simple web application using vanilla javascript and Google App Script for back end also for handling API and also Google Sheet for data persistent. You can visit here: https://fretzestavillo.github.io/simple-generetor-sura/
 
 <!-- ## Getting Started
 
